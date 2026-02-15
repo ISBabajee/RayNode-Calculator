@@ -12,7 +12,6 @@ System Mode (Grid-Tied/Hybrid/Zero EB)
 Calculate Button → Generates report automatically!
 
 2️⃣ Configuration Tab ⚙️
-
 Performance Ratio (editable)
 Peak Sun Hours (editable)
 Panel Price (₹/Watt)
@@ -21,8 +20,8 @@ Battery Price (₹/kWh)
 BOS Price (₹/kW)
 Subsidy, GST
 
-3️⃣ Professional Report Tab 📄
-Shows EXACT TATA Power Solar format:
+3️⃣ Professional Report Tab 
+📄 Shows EXACT TATA Power Solar format:
 ✅ Cover page (RAYNODE logo, capacity in big green font)
 ✅ Table of contents
 ✅ Executive summary (4 blue metric boxes)
