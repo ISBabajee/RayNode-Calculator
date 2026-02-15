@@ -1,5 +1,6 @@
 🎉 THIS ONE FILE HAS ABSOLUTELY EVERYTHING:
 3 TABS - ALL IN ONE:
+
 1️⃣ Input & Calculate Tab 📍
 
 Customer/Company Name
@@ -22,7 +23,6 @@ Subsidy, GST
 
 3️⃣ Professional Report Tab 📄
 Shows EXACT TATA Power Solar format:
-
 ✅ Cover page (RAYNODE logo, capacity in big green font)
 ✅ Table of contents
 ✅ Executive summary (4 blue metric boxes)
@@ -97,6 +97,7 @@ Page 4: Environmental Impact
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ✨ FEATURES THAT MAKE IT PERFECT:
+
 ✅ CSV Upload - Just drag & drop your bills
 ✅ Auto-calculations - No manual math needed
 ✅ Editable config - Adjust for any region
